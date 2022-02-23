@@ -1,0 +1,45 @@
+# Classement des départements verts
+
+Classement par moyenne taux d'avancement des 7 réformes
+
+![](https://hackmd.io/_uploads/SJUea1d1q.png)
+
+### Un schéma régional qui se dessine pour les régions Nouvelle Aquitaine, Pays de la Loire et Bretagne
+
+4 premiers départements sont en Occitanie : Aude, Pyrénées-Orientales, Gers et Tarn-et-Garonne, mais les autres départements de la région sont vraiment moins bons.
+La coordination régionale n'a pas d'effet
+
+#### a - Les départements qui ont pris le plus de réformes vertes dans leur feuille de route ne sont pas les meilleurs
+
+
+| Département | Moyenne TAR | Nb réf FdR | Classement |
+| -------- | -------- | -------- | -------- |
+|Vienne|	0,7593|	**6**|	45|
+|Haute-Corse|	0,7390|	**6**|	51|
+|Morbihan|	0,7379|	**4**|	52|
+|Indre|	0,6315|	**4**|	82|
+|Haute-Savoie|	0,5313|	**4**|	98|
+
+#### b - Les départements qui sont les mieux classés n'ont pas particulièrement plus pris de réformes vertes dans leur FdR
+
+| Département | Moyenne TAR | Nb réf FdR | Classement |
+| -------- | -------- | -------- | -------- |
+|Aude|	0,9533|	1|	**1**|
+Pyrénées-Orientales|	0,9382| 0	|	**2**|
+Gers|	0,9301|	1|	**3**|
+Tarn-et-Garonne|	0,9001|	1|	**4**|
+Corse-du-Sud|	0,8892|	0|	**5**|
+
+
+### Classement par moyenne taux d'avancement des réformes ayant un **impact sur les espaces naturels 
+- Lutter contre l'artificialisation des sols,
+- Renforcer la protection des espaces naturels,
+- Réduire l’utilisation des produits phytosanitaires et accélérer la transition écologique
+![](https://hackmd.io/_uploads/Sk3Y6y_k9.png)
+
+#### Classement par moyenne taux d'avancement des réformes ayant un **impact sur l'environnement humain 
+- Accélérer la rénovation énergétique des logements,
+- Déployer le plan vélo,
+- Verdir le parc automobile,
+- Mettre en œuvre la sortie du plastique à usage unique et mieux lutter contre le gaspillage
+![](https://hackmd.io/_uploads/SJheXxu1c.png)

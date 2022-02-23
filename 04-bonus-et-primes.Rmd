@@ -1,0 +1,21 @@
+# Bonus et primes à la conversion
+
+### Quels sont les départements qui ont les décrochages les plus importants entre progression primes et bornes électriques ?
+
+**Comparaison des taux de progression**
+![](https://hackmd.io/_uploads/HJWryRJyc.png)
+
+Le point excentré c'est la **Martinique** qui est passé de 1 borne à 58, je l'enlève pour plus de lisibilité. On ne peut pas affirmer qu'un département avec faible progression sur l'un des indicateurs aura une faible progression sur l'autre. Déploiement fait de manière disparate. Ceux qui ont les plus grands écarts de progression c'est ceux en haut à gauche : grande progression des bornes mais progression moins forte du nombre de prime : probablement pour se mettre à niveau.
+
+![](https://hackmd.io/_uploads/BkhN3ayy5.png)
+Cas de la Haute-Loire : grosse progression au niveau du nombre de bornes, pour atteindre un bon ratio (117 bornes pour 1159 bonus)
+
+
+### Existe-t-il une corrélation pour tous les départements entre faibles bonus et faible nombre de bornes électriques ? 
+
+![](https://hackmd.io/_uploads/SyctcleJ9.png)
+
+corrélation = 0.8517 -> Correlation forte.
+En vert la ligne 10 bonus pour 1 borne.
+
+Le ratio des cibles ne correspond pas aux standards européens.

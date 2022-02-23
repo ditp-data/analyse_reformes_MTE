@@ -1,0 +1,31 @@
+# Focus données
+
+### Les bases de données de référence des points de charge de véhicules électriques
+
+> Les données vues dans PILOTE sont issues d'une base de données produite par une entreprise (GIREVE) avec laquelle le MTE a passé un partenariat ;
+
+GIREVE collecte depuis 2014 les données descriptives des bornes aux opérateurs d’infrastructures de recharge et revend ces données (surtout du temps réél) aux différentes applications grand publics ou systèmes de navigation embarqués dans les véhicules.
+
+L'entreprise fournit les services suivants (data-as-a-service) : accès aux données statiques (localisation, conditions d’accès, puissances, connecteurs) et dynamiques (état de disponibilité en temps réel) des infrastructures de recharge, et met à dispo une API (avec mécanisme de téléchargement de la base entière ou mises à jour uniquement)
+
+*Potentiellement nous pourrions demander au MTE de nous fournir ces données statiques de géolocalisation des bornes pour les visualiser dans PILOTE*
+
+> En mai 2021, le cadre juridique évolue (sous impulsion DGITM/DGEC) et permet de collecter et publier des données sous référentiel unique et interopérable.
+
+Le répertoire national des Infrastructures de recharge pour véhicules électriques (IRVE) est créé
+
+**Cadre juridique existant:**
+> - - **Décret n° 2021-546 du 4 mai 2021** portant modification du décret n° 2017-26 du 12 janvier 2017 relatif aux infrastructures de recharge pour véhicules électriques et portant diverses mesures de **transposition de la directive** 2014/94/UE du Parlement européen et du Conseil du 22 octobre 2014 sur le **déploiement d'une infrastructure pour carburants alternatifs**
+> - - **Arrêté du 4 mai 2021 relatif aux données** concernant la **localisation géographique et les caractéristiques techniques** des stations et des points de recharge pour véhicules électriques
+
+La base IRVE est publiée sur data.gouv et c'est la DINUM qui assure sa mise à jour et sa consolidation : 
+
+https://schema.data.gouv.fr/etalab/schema-irve/2.0.2/ 
+
+#### Nombre de bornes référencées
+
+| Base IRVE  | GIREVE |
+| ----- | ------ |
+| 8 000 | 50 000 |
+
+GIREVE a pour projet de téléverser son stock de  bornes au format IRVE dans les prochains mois.

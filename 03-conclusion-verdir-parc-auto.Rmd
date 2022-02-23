@@ -1,0 +1,29 @@
+# Conclusions sur la réforme Verdir le Parc Automobile
+
+### Une explosion du nombre de points de recharge entre 2020 et 2021
+
+Les données ProPilot permettent de mettre en exergue unr forte augmentation du nombre de bornes. **Entre 2020 et 2021, le nombre de borne a triplé** à l'échelle nationale et atteint un total de `95 795`.
+
+Néanmoins, si ce nombre a augmenté de 46 % en moyenne au sein des différents départements, cette forte augmentation se révèle très hétérogène selon le département considéré. 
+
+
+A titre d'illustration, cette variation oscille d'une baisse de 2 % pour l'Allier à une augmentation de 730 % pour la Haute-Loire (de 10 bornes en 2020 à 83 en 2021).
+
+
+> Les dernières données disponibles (Girève, baromètre DGCE) soulignent la poursuite de cette augmentation du nombre de points de charge entre 2021 et 2022. Ceux-ci ont été multipliés par 6 pour atteindre, en février 2022, plus de 280 000.
+
+
+### Une augmentation permettant d'atteindre le respect du ratio d'une borne pour 10 véhicules
+
+Cette très forte augmentation a inversé la proportion de départements atteignant, voire dépassant, le ratio d'une borne pour 10 véhicules. 
+
+> Ainsi, en décembre 2021, 90 % des départements respectent ce ratio
+> Seul trois départements ne l'atteignent pas : la Haute-Corse, la Haute-Loire et la Haute-Vienne.
+
+### Primes et bonus distribués
+
+**En moyenne, il y a 4 fois plus de primes distribuées que de bornes de recharge.** Ce rythme, qui respecte le ratio préconisé par l'Union européenne, laisse penser une absence de tension dans les années à venir (sur les nombres de véhicules et de bornes). Néanmoins, d'autres tensions pourraient se faire jour : localisation/distribution des bornes sur le territoire et populaton présente, prix de la recharge etc.
+
+### La localisation des bornes : une analyse nécessaire à développer
+
+Après avoir considéré non seulement le nombre de bornes de recharge et leur forte augmentation mais également souligné le fait qu'il n'existe pas pour le moment de tension concernant le ratio nombre de bornes et de véhicules rechargeables, il s'agirait désormais de prendre en compte la localisation de celles-ci (facilité d'accès pour les population notamment).
